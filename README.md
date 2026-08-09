@@ -62,9 +62,5 @@ Stores:
 - Difficulty Levels
 - Random Question Generation
 
-## Demo Video
-A demonstration of the project is available in this repository.
-**File:** `demo.mp4`
-
 ## Author
 Anisha Bhayana
